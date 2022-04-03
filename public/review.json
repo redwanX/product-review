@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "review": "This headphone is beast! I brought it 6 month ago.. sound quality is awesome! and I must say price is prety reasonable then other headphons in the same specs!",
+      "rating": "4.9",
+      "img": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "review": "Very comfortable, very good looking, and AMAZING BATTERY LIFE! I will say they could be a little louder.I might not be the best judge. Either way 10/10 would recommend!",
+      "rating": "4.8",
+      "img": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Deckow Crist",
+      "review": "I was skeptical because of some of the reviews I saw but just buy them!! I use them to work out and they are so great. They cancel out most noise around you and the sound quality is great!",
+      "rating": "5.0",
+      "img": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Clementine Bauch",
+      "review": "I really like these headphones. The sound cancellation is good. The audio is good. The price isn't too high. My only problem was that I wanted to use them at night for sleeping. They are made of thin plastic. That is good for lightweight.",
+      "rating": "5.0",
+      "img": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dennis Schulist",
+      "review": "My daughter has had these for 3 months and hasn't been able to live without them since she got them. The noise canceling must be awesome because even when I yell for her, she can't hear me calling her from nearby.",
+      "rating": "4.6",
+      "img": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Glenna Reichert",
+      "review": "Honestly there is nothing I disliked. It's exactly what my son wanted and asked for... I received them very quick!!! He's happy so I'm happy",
+      "rating": "4.4",
+      "img": "https://randomuser.me/api/portraits/men/9.jpg"
+    }
+]
