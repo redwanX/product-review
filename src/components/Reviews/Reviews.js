@@ -6,7 +6,7 @@ const Reviews = () => {
   const [reviews,setReviews] = useReviews();
   return (
     <div>
-                <h3 className='text-4xl font-bold text-gray-600 text-center'>CUSTOMERS REVIEW</h3>
+                <h3 className='text-3xl py-5 font-bold text-gray-600 text-center'>WHAT OUR CUSTOMERS SAY!</h3>
       
             <div className='w-5/6 mx-auto grid lg:grid-cols-2 gird-cols-1 gap-4'>
                     

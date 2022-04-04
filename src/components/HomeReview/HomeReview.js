@@ -11,7 +11,7 @@ const HomeReview = () => {
     let navigate = useNavigate();
   return (
     <div>
-        <h3 className='text-4xl font-bold text-gray-600 text-center'>CUSTOMERS REVIEW</h3>
+        <h3 className='text-3xl py-3 font-bold text-gray-600 text-center'>CUSTOMERS REVIEWS</h3>
       
             <div className='w-5/6 mx-auto grid lg:grid-cols-3 grid-row-3 gap-4'>
                     

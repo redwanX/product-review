@@ -11,7 +11,7 @@ const Banner = () => {
             <h1 className='text-teal-600 font-bold lg:text-8xl md:text-6xl text-3xl'>WIRELESS</h1>
             <p className=' pt-5 text-justify text-md font-bold'>Beats Solo3 Wireless on-ear headphones immerse you in rich, award-winning sound, everywhere you want to go,Designed for listening freedom,Up to 40 hours of listening time,Power up with Fast Fuel, Take calls and take control.</p>
             <div className='flex justify-center my-5'>     
-            <button className='hover:bg-teal-600 bg-gray-600 text-white font-bold py-3 px-10 rounded-full shadow-sm transition ease-in-out duration-300' onClick={()=>navigate('/about')}>Full Spec</button> 
+            <button className='hover:bg-teal-600 bg-gray-600 text-white font-bold py-3 px-10 rounded-full shadow-sm transition ease-in-out duration-300' onClick={()=>navigate('/about')}>Learn More</button> 
         </div>
           </div>
         </div>
