@@ -15,7 +15,7 @@ const MyComposedChart = () => {
   return (
     <ResponsiveContainer>
       <ComposedChart  
-          data={ChartsData}
+          data={ChartsData.length?ChartsData:[]}
         >
           <CartesianGrid stroke="#f5f5f5" />
           <XAxis dataKey="month" label={{ value: 'Pages', position: 'insideBottomRight', offset: 0 }} scale="band" />

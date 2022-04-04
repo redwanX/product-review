@@ -11,7 +11,7 @@ const HomeReview = () => {
     let navigate = useNavigate();
   return (
     <div>
-        <h3 className='text-3xl font-bold text-center'>Customer Review</h3>
+        <h3 className='text-4xl font-bold text-gray-600 text-center'>CUSTOMERS REVIEW</h3>
       
             <div className='w-5/6 mx-auto grid lg:grid-cols-3 grid-row-3 gap-4'>
                     
@@ -22,7 +22,7 @@ const HomeReview = () => {
             </div>
         
         <div className='flex justify-center my-5'>     
-            <button className='bg-blue-600 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded-full transition ease-in-out duration-300' onClick={()=>navigate('/reviews')}>See All Review</button> 
+            <button className='bg-teal-600 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded-full transition ease-in-out duration-300' onClick={()=>navigate('/reviews')}>See All Review</button> 
         </div>
     </div>
   )

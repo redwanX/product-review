@@ -5,7 +5,9 @@ const MyLineChart = () => {
     const [ChartsData,setChartsData]  = useChart();
   return (
   <ResponsiveContainer>
-    <LineChart data={ChartsData}>
+    <LineChart 
+    data={ChartsData.length?ChartsData:[]}
+    >
     <CartesianGrid strokeDasharray="3 3" />
     <XAxis dataKey="month" />
     <YAxis />

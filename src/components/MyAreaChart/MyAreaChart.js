@@ -6,7 +6,7 @@ const MyAreaChart = () => {
   return (
     <ResponsiveContainer>
     <AreaChart
-      data={ChartsData}
+      data={ChartsData.length?ChartsData:[]}
     >
       <CartesianGrid strokeDasharray="3 3" />
       <XAxis dataKey="month" />

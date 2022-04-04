@@ -6,7 +6,7 @@ const MyBarChart = () => {
   return (
     <ResponsiveContainer>
      <BarChart
-          data={ChartsData}
+         data={ChartsData.length?ChartsData:[]}
         >
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" />

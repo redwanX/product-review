@@ -8,7 +8,7 @@ const Review = (props) => {
             <div className='lg:w-1/2 w-full flex flex-col items-center'>
             <img className='rounded-full' src={img} alt="" />
             <h3 className='text-2xl font-bold'>{name}</h3>
-            <h4 className='text-xl font-bold text-blue-600'>Rating: {rating}/5</h4>
+            <h4 className='text-xl font-bold text-teal-600'>Rating: {rating}/5</h4>
             </div>
             <div className='lg:w-1/2 w-full flex items-center'>
             <h2 className=' italic '>{`"${review}"`}</h2>
