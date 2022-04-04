@@ -7,22 +7,22 @@ const About = () => {
           <img className='w-1/4' src={headphone} alt="" />
         </div>
       <div className='grid gap-10 grid-cols-1 lg:grid-cols-2 h-full'>
-      <div className=' shadow-lg p-5 rounded'>
+      <article className=' shadow-lg p-5 rounded'>
         <h1 className=' text-teal-600 text-2xl font-bold '>Designed for listening freedom</h1>
         <p className=' text-gray-600 '>A sleek, streamlined, and foldable design, plus seamless setup via the Apple W1 chip, means these are durable and portable enough to stay on-the-move with you.</p>
-      </div>
-      <div className=' shadow-lg p-5 rounded'>
+      </article>
+      <article className=' shadow-lg p-5 rounded'>
         <h1 className=' text-teal-600 text-2xl font-bold '>Up to 40 hours of listening time</h1>
         <p className=' text-gray-600 '>With this much battery life, it’s the perfect everyday headphone, and on-ear cushion cups are made for hours of wear.</p>
-      </div>
-      <div className=' shadow-lg p-5 rounded'>
+      </article>
+      <article className=' shadow-lg p-5 rounded'>
         <h1 className=' text-teal-600 text-2xl font-bold '>Power up with Fast Fuel</h1>
         <p className=' text-gray-600 '>To get you back on track, use 5-minute Fast Fuel for 3 hours of playback when battery is low.</p>
-      </div>
-      <div className='shadow-lg p-5 rounded'> 
+      </article>
+      <article className='shadow-lg p-5 rounded'> 
         <h1 className=' text-teal-600 text-2xl font-bold '>Take calls and take control</h1>
         <p className=' text-gray-600 '>On-ear controls with dual beam-forming mics allow you to take calls, play music, adjust volume, and voice activate wherever your day takes you.</p>
-      </div>
+      </article>
       
     </div>
     <div>

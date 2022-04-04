@@ -9,7 +9,7 @@ const MyBarChart = () => {
          data={ChartsData.length?ChartsData:[]}
         >
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis dataKey="name" />
+          <XAxis dataKey="month" />
           <YAxis />
           <Tooltip />
           <Legend />
